@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="2.7212549999952316">
+<testsuite name="tests/sayfaKontrolleri.spec.js" timestamp="1668511608042" hostname="" tests="1" failures="0" skipped="0" time="2.361" errors="0">
+<testcase name="Taraftar - Fenerbahçe Koleji" classname="[chromium] › tests/sayfaKontrolleri.spec.js › Taraftar - Fenerbahçe Koleji" time="2.361">
+</testcase>
+</testsuite>
+</testsuites>
